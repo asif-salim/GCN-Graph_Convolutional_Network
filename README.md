@@ -1,6 +1,6 @@
 This is a TensorFlow implementation of the paper 'Framework for Designing Filters of Spectral Graph Convolutional Neural Networks in the context of Regularization Theory", (https://arxiv.org/abs/2009.13801)
 
-The implementation is an extension of the implementation codes of the paper by Thomas N. Kipf, Max Welling, [Semi-Supervised Classification with Graph Convolutional Networks](http://arxiv.org/abs/1609.02907) (ICLR 2017)
+
 
  ## Installation
 
@@ -82,6 +82,6 @@ c) arch = GCNDense      #-- for model with one layer GC followed by a dense laye
 d) arch = GCNDenseDense #-- for model with one layer GC followed by two layers of dense layers.
 
 
-
+The implementation is an extension of the implementation codes of the paper by Thomas N. Kipf, Max Welling, [Semi-Supervised Classification with Graph Convolutional Networks](http://arxiv.org/abs/1609.02907) (ICLR 2017)
 
  
